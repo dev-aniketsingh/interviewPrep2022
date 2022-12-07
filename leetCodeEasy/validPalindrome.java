@@ -5,4 +5,4 @@ class Solution {
         sb.reverse();
         return s.equals(sb.toString());
     }
-}
+} 
